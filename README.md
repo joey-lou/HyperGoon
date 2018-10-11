@@ -1,1 +1,1 @@
-# caam-495-fluid-flow
+# CAAM 495 Fluid flow simulations using machine learning
