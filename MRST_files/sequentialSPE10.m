@@ -160,7 +160,7 @@ end
 
 % rock contains first permeability and then porosity
 dlmwrite(fn_rock,model.rock.poro')
-for i = 1:3
+for i = 1:1
     dlmwrite(fn_rock,model.rock.perm','-append')
 end
 
